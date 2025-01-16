@@ -5750,7 +5750,7 @@ body.megamenu-popup-active .mobile-nav__content {
     position: relative;
     padding: 0;
     border-radius: 50px;
-    background-color: var(--kidearn-gray, #faf5f2)
+    background-color: #e5ffde
 }
 
 .cta-one__one__text,
@@ -12408,15 +12408,15 @@ body.boxed-wrapper {
 
 .program-three {
     position: relative;
-    padding: 96px 0;
-    background-color: var(--kidearn-gray, #faf5f2)
+    padding: 115px 0;
+    background-color: #f6c997
 }
 
 .program-three__top-bg,
 .program-three__top-bg__inner,
 .program-three__top-shape {
     left: 0;
-    background-color: var(--kidearn-base, #f25334);
+    background-color: #ac1c2f;
     position: absolute;
     width: 100%
 }
@@ -12450,14 +12450,14 @@ body.boxed-wrapper {
 .program-three__shape1 {
     position: absolute;
     left: 5%;
-    bottom: -3%;
+    bottom: -1%;
     z-index: 9;
 }
 
 .program-three__shape2 {
     position: absolute;
     right: 5%;
-    bottom: -3%;
+    bottom: -1%;
     z-index: 9;
 }
 
